@@ -2,7 +2,8 @@
  * Prints basic information about the programmer.
  *
  * @author Chaz Hoang
- * @version 2/15/26
+ * @version v1.0
+ * @since 2/17/26
  */
 public class GetToKnowYou
 {
