@@ -1,0 +1,24 @@
+Enter your first name: Chaz
+Enter your middle name: Tinh
+Enter your last name: Hoang
+
+My name is: Chaz Tinh Hoang
+My initials are: CTH
+Enter a city: San Diego
+
+The city entered has: 9 chars
+In upper case: SAN DIEGO
+In lower case: san diego
+First character: S
+Enter number of shares purchased: 4
+Enter price per share: 1
+
+Total cost of shares are: $4.0
+Commission cost is: $0.08
+Total Cost is: $4.08
+Enter number of shares purchased: 600
+Enter price per share: 21.77
+
+Total cost of shares are: $13062.0
+Commission cost is: $261.24
+Total Cost is: $13323.24

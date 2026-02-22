@@ -1,0 +1,6 @@
+Enter your first name: Chaz
+Enter your middle name: Tinh
+Enter your last name: Hoang
+
+My name is: Chaz Tinh Hoang
+My initials are: CTH
